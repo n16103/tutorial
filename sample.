@@ -1,3 +1,5 @@
 サルでもわかるGitコマンド
 repository understand your project by adding a README.
 の説明を追加"
+ commit -m "pullの説明を追加" 
+
